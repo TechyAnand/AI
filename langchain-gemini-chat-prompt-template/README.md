@@ -1,7 +1,7 @@
 
 # Project Title
 
-## 🧠 Using LangChain Chat Prompts with Google Gemini — A Developer’s Perspective
+## Multilingual Translator 
 
 This is a simple, developer-friendly project that demonstrates how to use **LangChain** with **Google Gemini 2.0 Flash** to build a multilingual translator via structured chat prompts.
 
