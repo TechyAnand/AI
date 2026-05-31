@@ -1,0 +1,3 @@
+interface:
+  display_name: "Kubernetes Troubleshooter"
+  short_description: "Troubleshoot kubernetes incidents from logs, events, manifests, and pasted kubectl output"
