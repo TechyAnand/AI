@@ -1,0 +1,3 @@
+interface:
+  display_name: "Terraform Drift Troubleshooter"
+  short_description: "Analyze terraform drift, state mismatch, and troubleshooting output"
